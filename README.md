@@ -14,7 +14,6 @@
 2. It comes default with python.
 3. It allows dynamic data input to change the output
 
-#### [*Documentation*](https://docs.python.org/3/library/optparse.html#background)
 
 --- 
 ### Creating an OptionParser object √
@@ -39,6 +38,8 @@ parser = optparse.OptionParser()
 OptionParser.add_option(option)
 
 ```
+## [*Documentation*](https://docs.python.org/3/library/optparse.html#background)
+
 --- 
 
 ### What is the scapy library and what does it do ? 
@@ -72,6 +73,6 @@ $ git clone https://github.com/secdev/scapy.git
 
 ```
 
-#### [*Documentation*](https://scapy.readthedocs.io/en/latest/introduction.html)
+## [*Documentation*](https://scapy.readthedocs.io/en/latest/introduction.html)
 
 ---
