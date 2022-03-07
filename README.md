@@ -154,7 +154,7 @@ pip3 install scapy-python3
 * Son sürümünü Github'dan indirmek için aşağıdaki kodu terminale yazarak indirebilirsiniz:
 
 
-``console
+```console
 $ git clone https://github.com/secdev/scapy.git
 
 ```
