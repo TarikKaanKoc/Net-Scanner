@@ -146,7 +146,7 @@ Diğer ağ araçları, alınan paketleri yorumlayarak filtrelenmiş sonuçlar ve
 
 * Python3'te Scapy modülünü kurmak için aşağıdaki komutu terminalde çalıştırın:
 
-``console
+```console
 pip3 install scapy-python3
 
 ```
